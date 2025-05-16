@@ -1,6 +1,6 @@
 package Catalyst::Controller::Validation::DFV;
 
-our $VERSION = '0.0.10';
+our $VERSION = '0.0.11';
 $VERSION = eval $VERSION;
 
 use strict;
