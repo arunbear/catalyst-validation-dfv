@@ -1,4 +1,8 @@
 package Catalyst::Controller::Validation::DFV;
+
+our $VERSION = '0.0.10';
+$VERSION = eval $VERSION;
+
 use strict;
 use warnings;
 
@@ -160,15 +164,16 @@ Form-validation using a Catalyst controller and Data::FormValidator
 There are L<Template::Toolkit> file examples in the examples/ directory of
 this distribution.
 
-=begin markdown
+=head1 AUTHOR
 
-## BUILD STATUS
+Chisel <chisel@chizography.net>
 
-### master
+=head1 COPYRIGHT AND LICENSE
 
-[![Build status](https://badge.buildkite.com/a51523ccfc452014358d9666ac0a51ca30bc409da860c34b7d.svg)](https://buildkite.com/chizography/catalyst-validation-dfv)
+This software is copyright (c) 2012 by Chisel Wright.
 
-=end markdown
+This is free software; you can redistribute it and/or modify it under
+the same terms as the Perl 5 programming language system itself.
 
 =cut
 
