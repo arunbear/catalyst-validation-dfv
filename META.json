@@ -70,7 +70,7 @@
          "web" : "https://github.com/arunbear/catalyst-validation-dfv"
       }
    },
-   "version" : "0.0.10",
+   "version" : "0.0.11",
    "x_authority" : "cpan:ARUNBEAR",
    "x_contributors" : [
       "Arun Prasaad <arunbear@cpan.org>",
